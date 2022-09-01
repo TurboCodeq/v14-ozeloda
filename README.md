@@ -1,1 +1,1 @@
-# v14-zeloda
+npm i yazmanız yeterlidir
